@@ -7,7 +7,7 @@
     "price": 15000,
     "engine": 1.8,
     "description": "Reliable compact car with good fuel economy.",
-    "imageURL": "https://example.com/images/toyota_corolla.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/0ANZz/s1/2018-toyota-corolla.jpg"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "price": 18000,
     "engine": 2.0,
     "description": "Sporty and efficient sedan.",
-    "imageURL": "https://example.com/images/honda_civic.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/vM8zK/s1/2020-honda-civic.jpg"
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@
     "price": 28000,
     "engine": 2.0,
     "description": "Luxury compact car with great handling.",
-    "imageURL": "https://example.com/images/bmw_3series.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/1xq3R/s1/2019-bmw-3-series.jpg"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "price": 35000,
     "engine": 2.0,
     "description": "Elegant and smooth ride with advanced features.",
-    "imageURL": "https://example.com/images/mercedes_c_class.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/8Zq9n/s1/2021-mercedes-c-class.jpg"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@
     "price": 12000,
     "engine": 1.6,
     "description": "Affordable and compact car.",
-    "imageURL": "https://example.com/images/ford_focus.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/BqqVx/s1/2017-ford-focus.jpg"
   },
   {
     "id": "6",
@@ -57,7 +57,7 @@
     "price": 37000,
     "engine": 2.0,
     "description": "Premium sedan with excellent performance.",
-    "imageURL": "https://example.com/images/audi_a4.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/0xYMQ/s1/2022-audi-a4.jpg"
   },
   {
     "id": "7",
@@ -67,7 +67,7 @@
     "price": 16000,
     "engine": 1.8,
     "description": "Reliable daily driver with great features.",
-    "imageURL": "https://example.com/images/hyundai_elantra.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/k9Q9N/s1/2020-hyundai-elantra.jpg"
   },
   {
     "id": "8",
@@ -77,7 +77,7 @@
     "price": 17000,
     "engine": 2.4,
     "description": "Spacious and efficient family sedan.",
-    "imageURL": "https://example.com/images/kia_optima.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/VBzZB/s1/2019-kia-optima.jpg"
   },
   {
     "id": "9",
@@ -87,7 +87,7 @@
     "price": 15500,
     "engine": 1.5,
     "description": "Comfortable mid-size sedan with modern design.",
-    "imageURL": "https://example.com/images/chevrolet_malibu.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/oV9Ao/s1/2018-chevrolet-malibu.jpg"
   },
   {
     "id": "10",
@@ -97,7 +97,7 @@
     "price": 21000,
     "engine": 2.5,
     "description": "Smooth ride and great fuel efficiency.",
-    "imageURL": "https://example.com/images/nissan_altima.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/g2zlp/s1/2021-nissan-altima.jpg"
   },
   {
     "id": "11",
@@ -107,7 +107,7 @@
     "price": 40000,
     "engine": 0.0,
     "description": "All-electric performance and cutting-edge tech.",
-    "imageURL": "https://example.com/images/tesla_model3.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/RR9VW/s1/2022-tesla-model-3.jpg"
   },
   {
     "id": "12",
@@ -117,7 +117,7 @@
     "price": 19000,
     "engine": 2.0,
     "description": "German engineering with solid comfort.",
-    "imageURL": "https://example.com/images/vw_passat.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/NPwzL/s1/2019-volkswagen-passat.jpg"
   },
   {
     "id": "13",
@@ -127,7 +127,7 @@
     "price": 18500,
     "engine": 2.5,
     "description": "Sporty handling and sleek design.",
-    "imageURL": "https://example.com/images/mazda6.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/VPkZr/s1/2020-mazda6.jpg"
   },
   {
     "id": "14",
@@ -137,7 +137,7 @@
     "price": 14000,
     "engine": 2.0,
     "description": "AWD reliability and safety.",
-    "imageURL": "https://example.com/images/subaru_impreza.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/m6y6k/s1/2018-subaru-impreza.jpg"
   },
   {
     "id": "15",
@@ -147,6 +147,6 @@
     "price": 38000,
     "engine": 2.0,
     "description": "Luxury and performance in a compact sedan.",
-    "imageURL": "https://example.com/images/lexus_is300.jpg"
+    "imageURL": "https://cdn.motor1.com/images/mgl/JkJ3Z/s1/2021-lexus-is-300.jpg"
   }
 ]
