@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Toyota",
+    "model": "Corolla",
+    "realiseData": 2018,
+    "price": 15000,
+    "engine": 1.8,
+    "description": "Reliable compact car with good fuel economy.",
+    "imageURL": "https://example.com/images/toyota_corolla.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Honda",
+    "model": "Civic",
+    "realiseData": 2020,
+    "price": 18000,
+    "engine": 2.0,
+    "description": "Sporty and efficient sedan.",
+    "imageURL": "https://example.com/images/honda_civic.jpg"
+  },
+  {
+    "id": "3",
+    "name": "BMW",
+    "model": "3 Series",
+    "realiseData": 2019,
+    "price": 28000,
+    "engine": 2.0,
+    "description": "Luxury compact car with great handling.",
+    "imageURL": "https://example.com/images/bmw_3series.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mercedes",
+    "model": "C-Class",
+    "realiseData": 2021,
+    "price": 35000,
+    "engine": 2.0,
+    "description": "Elegant and smooth ride with advanced features.",
+    "imageURL": "https://example.com/images/mercedes_c_class.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Ford",
+    "model": "Focus",
+    "realiseData": 2017,
+    "price": 12000,
+    "engine": 1.6,
+    "description": "Affordable and compact car.",
+    "imageURL": "https://example.com/images/ford_focus.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Audi",
+    "model": "A4",
+    "realiseData": 2022,
+    "price": 37000,
+    "engine": 2.0,
+    "description": "Premium sedan with excellent performance.",
+    "imageURL": "https://example.com/images/audi_a4.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Hyundai",
+    "model": "Elantra",
+    "realiseData": 2020,
+    "price": 16000,
+    "engine": 1.8,
+    "description": "Reliable daily driver with great features.",
+    "imageURL": "https://example.com/images/hyundai_elantra.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Kia",
+    "model": "Optima",
+    "realiseData": 2019,
+    "price": 17000,
+    "engine": 2.4,
+    "description": "Spacious and efficient family sedan.",
+    "imageURL": "https://example.com/images/kia_optima.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Chevrolet",
+    "model": "Malibu",
+    "realiseData": 2018,
+    "price": 15500,
+    "engine": 1.5,
+    "description": "Comfortable mid-size sedan with modern design.",
+    "imageURL": "https://example.com/images/chevrolet_malibu.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Nissan",
+    "model": "Altima",
+    "realiseData": 2021,
+    "price": 21000,
+    "engine": 2.5,
+    "description": "Smooth ride and great fuel efficiency.",
+    "imageURL": "https://example.com/images/nissan_altima.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Tesla",
+    "model": "Model 3",
+    "realiseData": 2022,
+    "price": 40000,
+    "engine": 0.0,
+    "description": "All-electric performance and cutting-edge tech.",
+    "imageURL": "https://example.com/images/tesla_model3.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Volkswagen",
+    "model": "Passat",
+    "realiseData": 2019,
+    "price": 19000,
+    "engine": 2.0,
+    "description": "German engineering with solid comfort.",
+    "imageURL": "https://example.com/images/vw_passat.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Mazda",
+    "model": "Mazda6",
+    "realiseData": 2020,
+    "price": 18500,
+    "engine": 2.5,
+    "description": "Sporty handling and sleek design.",
+    "imageURL": "https://example.com/images/mazda6.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Subaru",
+    "model": "Impreza",
+    "realiseData": 2018,
+    "price": 14000,
+    "engine": 2.0,
+    "description": "AWD reliability and safety.",
+    "imageURL": "https://example.com/images/subaru_impreza.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Lexus",
+    "model": "IS 300",
+    "realiseData": 2021,
+    "price": 38000,
+    "engine": 2.0,
+    "description": "Luxury and performance in a compact sedan.",
+    "imageURL": "https://example.com/images/lexus_is300.jpg"
+  }
+]
