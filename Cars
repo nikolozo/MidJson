@@ -11,13 +11,13 @@
   },
   {
     "id": "2",
-    "name": "Honda",
-    "model": "Civic",
-    "realiseData": 2020,
+    "name": "BMW",
+    "model": "e39",
+    "realiseData": 2000,
     "price": 18000,
     "engine": 2.0,
     "description": "Sporty and efficient sedan.",
-    "imageURL": "https://cdn.motor1.com/images/mgl/vM8zK/s1/2020-honda-civic.jpg"
+    "imageURL": "https://drive.google.com/file/d/1dFN90WIUNDDPn8LZTyLi3-tgNh8cA8gL/view?usp=sharing"
   },
   {
     "id": "3",
